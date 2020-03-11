@@ -1,3 +1,7 @@
 .parallax {
   background-attachment: fixed;
 }
+
+.bar:hover {
+  cursor: move;
+}
