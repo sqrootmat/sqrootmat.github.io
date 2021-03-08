@@ -1,5 +1,3 @@
 # My Portfolio
 
-Developed from scratch using HTML and CSS
-
-CSS framework used: Tachyons
+Developed from scratch using HTML and a CSS framework called Tachyons
